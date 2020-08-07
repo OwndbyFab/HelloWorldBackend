@@ -13,7 +13,7 @@ public class HelloService {
 
     @GetMapping("")
     public String helloWorld() {
-        return "Hello World.";
+        return "Hello World 2.";
     }
 
 }
